@@ -1,6 +1,7 @@
 # Parallel Twitter in Postgres
 
 ![](https://github.com/hfmandell/twitter_postgres_parallel/workflows/tests_normalized/badge.svg)
+[![tests_denormalized](https://github.com/hfmandell/twitter_postgres_parallel/actions/workflows/tests_denormalized.yml/badge.svg)](https://github.com/hfmandell/twitter_postgres_parallel/actions/workflows/tests_denormalized.yml)
 
 ![](https://github.com/hfmandell/twitter_postgres_parallel/workflows/tests_normalized_parallel/badge.svg)
 
