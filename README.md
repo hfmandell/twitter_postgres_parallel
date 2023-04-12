@@ -1,17 +1,16 @@
 # Parallel Twitter in Postgres
 
-![](https://github.com/hfmandell/twitter_postgres_parallel/workflows/tests_normalized/badge.svg)
-[![tests_denormalized](https://github.com/hfmandell/twitter_postgres_parallel/actions/workflows/tests_denormalized.yml/badge.svg)](https://github.com/hfmandell/twitter_postgres_parallel/actions/workflows/tests_denormalized.yml)
+[![tests_normalized](https://github.com/hfmandell/twitter_postgres_parallel/actions/workflows/tests_normalized.yml/badge.svg)](https://github.com/hfmandell/twitter_postgres_parallel/actions/workflows/tests_normalized.yml)
 
-![](https://github.com/hfmandell/twitter_postgres_parallel/workflows/tests_normalized_parallel/badge.svg)
+[![tests_normalized_parallel](https://github.com/hfmandell/twitter_postgres_parallel/actions/workflows/tests_normalized_parallel.yml/badge.svg)](https://github.com/hfmandell/twitter_postgres_parallel/actions/workflows/tests_normalized_parallel.yml)
 
-![](https://github.com/hfmandell/twitter_postgres_parallel/workflows/tests_normalized_batch/badge.svg)
+[![tests_normalized_batch](https://github.com/hfmandell/twitter_postgres_parallel/actions/workflows/tests_normalized_batch.yml/badge.svg)](https://github.com/hfmandell/twitter_postgres_parallel/actions/workflows/tests_normalized_batch.yml)
 
-![](https://github.com/hfmandell/twitter_postgres_parallel/workflows/tests_normalized_batch_parallel/badge.svg)
+[![tests_normalized_batch_parallel](https://github.com/hfmandell/twitter_postgres_parallel/actions/workflows/tests_normalized_batch_parallel.yml/badge.svg)](https://github.com/hfmandell/twitter_postgres_parallel/actions/workflows/tests_normalized_batch_parallel.yml)
 
-![](https://github.com/hfmandell/twitter_postgres_parallel/workflows/tests_denormalized/badge.svg)
+[![tests_normalized_batch_parallel](https://github.com/hfmandell/twitter_postgres_parallel/actions/workflows/tests_normalized_batch_parallel.yml/badge.svg)](https://github.com/hfmandell/twitter_postgres_parallel/actions/workflows/tests_normalized_batch_parallel.yml)
 
-![](https://github.com/hfmandell/twitter_postgres_parallel/workflows/tests_denormalized_parallel/badge.svg)
+[![tests_denormalized_parallel](https://github.com/hfmandell/twitter_postgres_parallel/actions/workflows/tests_denormalized_parallel.yml/badge.svg)](https://github.com/hfmandell/twitter_postgres_parallel/actions/workflows/tests_denormalized_parallel.yml)
 
 In this assignment, you will make your data loading into postgres significantly faster using batch loading and parallel loading.
 Notice that many of the test cases above are already passing;
